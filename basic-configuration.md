@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/1gradient.png
+cover: .gitbook/assets/covergradient-1.png
 coverY: 0
 ---
 

@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/gradient (1).png
+cover: .gitbook/assets/covergradient-home.png
 coverY: 0
 layout: landing
 ---
