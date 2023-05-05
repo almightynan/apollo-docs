@@ -4,7 +4,7 @@ coverY: 0
 layout: landing
 ---
 
-# Apollo - Introduction
+# Home
 
 Apollo Bot is a powerful Discord bot designed to help you manage your server with ease. With a wide range of features and commands, Apollo is the perfect choice for server owners who want to take their server to the next level.
 
