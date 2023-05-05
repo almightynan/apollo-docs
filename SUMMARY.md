@@ -15,6 +15,7 @@
 ## 🧰 Commands
 
 * [Claimtime](commands/claimtime.md)
+* [Meta](commands/meta.md)
 
 ## 📄 Terms and Conditions
 
