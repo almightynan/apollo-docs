@@ -12,10 +12,6 @@ coverY: 0
 {% tab title="Usage" %}
 * `a!vote` - Returns the voting link to [top.gg](https://top.gg/bot/824119071556763668/vote) for Apollo.
 {% endtab %}
-
-{% tab title="Examples" %}
-<figure><img src="../.gitbook/assets/DiscordPTB_gD8vKm8sC0.gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
 {% endtabs %}
 
 ### `a!debug`
@@ -81,3 +77,56 @@ coverY: 0
 {% endtabs %}
 
 ### `a!variables`
+
+{% tabs %}
+{% tab title="Usage" %}
+* `a!variables` - Returns the variables that can be used in greet, winmsg & giveaways.
+* `a!vars` - Alias for `a!variables`.
+{% endtab %}
+
+{% tab title="Examples" %}
+<figure><img src="../.gitbook/assets/DiscordPTB_a79RUYSzkA.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+### `a!ping`
+
+{% tabs %}
+{% tab title="Usage" %}
+* `a!ping` - Returns the latency of the bot & its database.
+{% endtab %}
+{% endtabs %}
+
+### `a!botinfo`
+
+{% tabs %}
+{% tab title="Usage" %}
+* `a!botinfo` - Returns the current statistics of Apollo.
+* `a!stats` - Alias for `a!botinfo`.
+{% endtab %}
+{% endtabs %}
+
+### `a!prefix`
+
+{% tabs %}
+{% tab title="Usage" %}
+* `a!prefix` - Shows the server's prefix for Apollo
+* `a!prefix set <new_prefix>` - Change the current prefix of Apollo.
+{% endtab %}
+
+{% tab title="Examples" %}
+<figure><img src="../.gitbook/assets/DiscordPTB_rLD6u4ldVq.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+### `a!opt-out`
+
+{% tabs %}
+{% tab title="Usage" %}
+* `a!opt-out` - Opt out of the bot's message tracking (your messages won't be counted).
+{% endtab %}
+
+{% tab title="Examples" %}
+
+{% endtab %}
+{% endtabs %}
