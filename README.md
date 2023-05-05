@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/covergradient-home.png
 coverY: 0
-layout: landing
 ---
 
 # Home
