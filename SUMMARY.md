@@ -16,6 +16,7 @@
 
 * [Claimtime](commands/claimtime.md)
 * [Meta](commands/meta.md)
+* [Giveaways](commands/giveaways.md)
 
 ## 📄 Terms and Conditions
 
