@@ -127,6 +127,28 @@ coverY: 0
 {% endtab %}
 
 {% tab title="Examples" %}
+<figure><img src="../.gitbook/assets/DiscordPTB_tCC708aO52.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
+### `a!opt-in`
+
+{% tabs %}
+{% tab title="Usage" %}
+* `a!opt-in` - Opt in for the bot's message tracking (your messages will be counted).
+{% endtab %}
+
+{% tab title="Examples" %}
+
+
+<figure><img src="../.gitbook/assets/DiscordPTB_5zHR3kVEIs.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+### `a!premium`
+
+{% tabs %}
+{% tab title="Usage" %}
+* `a!premium` - Shows if the server has premium & all the premium tier's perks.
 {% endtab %}
 {% endtabs %}
