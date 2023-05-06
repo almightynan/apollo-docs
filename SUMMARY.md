@@ -11,6 +11,7 @@
 * [Giveaways](guides/giveaways.md)
 * [Greet](guides/greet.md)
 * [Time-difference](guides/time-difference.md)
+* [Overrides](guides/overrides.md)
 
 ## 🧰 Commands
 
