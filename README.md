@@ -23,4 +23,4 @@ To start using Apollo Bot on your server, simply invite it by using the invite l
 
 {% embed url="https://dsc.gg/apollo-invite" %}
 
-After inviting, you can use the `help` command to see a list of available commands and get started with server management.
+After inviting, you can use the `help / a!help` command to see a list of available commands and get started with server management.

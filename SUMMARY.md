@@ -15,9 +15,12 @@
 
 ## 🧰 Commands
 
-* [Claimtime](commands/claimtime.md)
 * [Meta](commands/meta.md)
+* [Claimtime](commands/claimtime.md)
+* [Greeter](commands/greeter.md)
 * [Giveaways](commands/giveaways.md)
+* [Claimtime](commands/claimtime-1.md)
+* [Utilities](commands/utilities.md)
 
 ## 📄 Terms and Conditions
 
