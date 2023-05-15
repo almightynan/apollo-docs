@@ -20,7 +20,7 @@ description: >-
 
 </div>
 
-<div>
+<div align="center">
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Claimtime with a override role</p></figcaption></figure>
 

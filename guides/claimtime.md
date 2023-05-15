@@ -18,7 +18,7 @@ coverY: 0
 
 > This command checks the claimtime for a user or a role. It gives the claimtime for a role and it gives the total claimtime for a user.
 
-<div>
+<div align="center">
 
 <figure><img src="../.gitbook/assets/image (25).png" alt="Example Of a!claimtime command"><figcaption><p>Interface for roles</p></figcaption></figure>
 

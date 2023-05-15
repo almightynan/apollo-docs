@@ -7,6 +7,7 @@
 ## 📔 Guides
 
 * [Claimtime](guides/claimtime.md)
+* [Message Counter](guides/message-counter.md)
 * [Configurations](guides/configurations.md)
 * [Giveaways](guides/giveaways.md)
 * [Greet](guides/greet.md)
