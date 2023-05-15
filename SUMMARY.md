@@ -20,10 +20,9 @@
 * [Claimtime](commands/claimtime.md)
 * [Greeter](commands/greeter.md)
 * [Giveaways](commands/giveaways.md)
-* [Claimtime](commands/claimtime-1.md)
 * [Utilities](commands/utilities.md)
 
-## 📄 Terms and Conditions
+## 📄 Legal
 
-* [Terms of service](terms-and-conditions/terms-of-service.md)
-* [Privacy policy](terms-and-conditions/privacy-policy.md)
+* [Terms of service](legal/terms-of-service.md)
+* [Privacy policy](legal/privacy-policy.md)
