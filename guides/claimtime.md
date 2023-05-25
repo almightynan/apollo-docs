@@ -12,7 +12,7 @@ coverY: 0
 >
 > Please refer to the [**overrides**](overrides.md) section if you are not familiar with it as claimtime uses overrides.
 
-## Sub Commands for claimtime module
+## Sub Commands for the Claimtime Module
 
 ### a!claimtime
 
