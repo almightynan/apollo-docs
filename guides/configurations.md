@@ -14,7 +14,9 @@ coverY: 0
 
 ### Triggers
 
-> Pressing this button will show all the trigger messages that will trigger apollo to send a particular win message. Using this menu you can also add or remove the trigger words. ![](<../.gitbook/assets/Screenshot 2023-05-16 at 12.58.52 AM.png>)
+> Pressing this button will show all the trigger messages that will trigger apollo to send a particular win message. Using this menu you can also add or remove the trigger words.&#x20;
+>
+> ![](<../.gitbook/assets/Screenshot 2023-05-16 at 12.58.52 AM.png>)
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.58.08 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -61,4 +63,12 @@ This is a premium feature, to enable it please refer to the [premium tab](../pre
 
 {% hint style="warning" %}
 This is a premium feature, to enable it please refer to the [premium tab](../premium.md)
+{% endhint %}
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
 {% endhint %}

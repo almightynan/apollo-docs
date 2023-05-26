@@ -152,3 +152,11 @@ coverY: 0
 * `a!premium` - Shows if the server has premium & all the premium tier's perks.
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

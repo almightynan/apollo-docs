@@ -1,4 +1,5 @@
 ---
+description: Enhance your classic Apollo experience by purchasing one of the tiers below!
 cover: .gitbook/assets/covergradient-2.png
 coverY: 0
 ---
@@ -33,3 +34,8 @@ This tier is for people who want to support the development of the bot without s
 
 * **Apollo Premium (tier II) for 3 servers of your choice.**
 
+{% hint style="success" %}
+Purchase Apollo premium via patreon: [click here \[patreon.com\]](https://patreon.com/apollobot)
+
+Purchase Apollo premium via crypto/paypal/other methods: [click here \[discord.gg\]](https://discord.gg/apollo-hq-923425920096800788)
+{% endhint %}

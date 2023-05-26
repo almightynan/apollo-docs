@@ -10,7 +10,7 @@ As you know apollo has a very sophisticated and advanced giveaway system. This p
 
 ## Giveaway Management Commands
 
-### a!wins
+### `a!wins`
 
 > This command shows the amount of win counts of giveaways hosted in the particular server and in all the servers apollo is in. In addition to the count, this command also shows what prize has been won by that particular user.
 
@@ -24,7 +24,7 @@ As you know apollo has a very sophisticated and advanced giveaway system. This p
 
 </div>
 
-### a!glist
+### `a!glist`
 
 > This command shows all the active and ended giveaways in the particular server across all channels. This command also shows other information like giveaway host, giveaway winner of ended giveaways, and the channel the giveaway is in.&#x20;
 
@@ -52,7 +52,7 @@ This command sends a button to view all the giveaways in paginator (page embed) 
 
 </div>
 
-### a!winrole (winroleset/remove)
+### `a!winrole` (`winroleset/remove`)
 
 > This command shows the roles that are to be added to the winner after they have won a giveaway. a!winrole set adds a new role to be added to the winners whereas a!winrole remove will delete the role to be added to winners.
 
@@ -62,7 +62,7 @@ This command sends a button to view all the giveaways in paginator (page embed) 
 This command is a premium only command, to know more please goto the [premium](../premium.md) tab
 {% endhint %}
 
-### a!managerole
+### `a!managerole`
 
 > This command allows you to assign a giveaway manager role. By using this command you dont need to give the giveaway host the `manage server` permission, as simply assigning this role to the host will allow them to host and control giveaways.
 
@@ -74,7 +74,7 @@ This command is a premium only command, to know more please goto the [premium](.
 
 ## Giveaway Host Commands
 
-### a!gstart
+### `a!gstart`
 
 > This command is used to start giveaways in a particular channel. The format to use this command is `a!gstart <time> <winners> <prize>`. Once you have entered the parameters, Apollo will automatically delete your message and start a giveaway in that particular channel.\
 > \
@@ -84,13 +84,13 @@ This command is a premium only command, to know more please goto the [premium](.
 
 <figure><img src="../.gitbook/assets/a!gstart.gif" alt=""><figcaption><p>Example giveaway</p></figcaption></figure>
 
-### a!gend
+### `a!gend`
 
 > This command is used to end a particular giveaway in a particular channel. If there are more than one giveaways running at the same time then you can use `a!gend <messageid>` to end that particular giveaway, as we replace `<messageid>` with the id of the giveaway.
 
 <figure><img src="../.gitbook/assets/a!gend.gif" alt=""><figcaption><p>Ending giveaway</p></figcaption></figure>
 
-### a!greroll
+### `a!greroll`
 
 This command rerolls the winner of a perticular giveaway. When multiple giveaways are running then you can use `a!greroll <messageid>` to reroll that particular giveaway. Here `<messageid>` is the id of the message of the giveaway.
 
@@ -98,7 +98,7 @@ This command rerolls the winner of a perticular giveaway. When multiple giveaway
 
 ## Giveaway Control Commands
 
-### a!gwblacklist
+### `a!gwblacklist`
 
 > This command blacklists a particular user from reacting/participating in giveaways by automatically unreacting to giveaways in the particular server. This command only applies to the local server and not the global giveaway blacklist (i.e. the user can still participate in other giveaways hosted by apollo in other servers)\
 > \
@@ -122,3 +122,10 @@ This command deletes the giveaway log from the a!glist database. To delete a par
 
 </div>
 
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

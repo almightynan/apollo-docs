@@ -6,7 +6,7 @@ description: >-
 
 # Message Counter
 
-## What is message counter ?
+## What is message counter?
 
 > This module of apollo lets users track messages on their discord server. Apollo has a very customisable and advanced message tracking system. This module in any way does not track or store your messages in a database. You can also disable this command for yourself if you wish your messages not be counted by apollo.&#x20;
 
@@ -14,9 +14,9 @@ description: >-
 Message Counter is disabled by default for your server, use **a!messages enable** to start counting messages in the server.
 {% endhint %}
 
-## Sub commands for the Message Counter Module
+## Subcommands for the Message Counter Module
 
-### a!messages
+### `a!messages`
 
 > This command shows the number of messages that has been sent by the user. You can also use this command to check the message sent by other users in the server too by using **a!messages {@user}** or by using **a!messages {userID}.**&#x20;
 
@@ -30,7 +30,7 @@ Message Counter is disabled by default for your server, use **a!messages enable*
 
 </div>
 
-### a!messages enable/disable
+### `a!messages enable` / `a!messages disable`
 
 > This command helps to enable or disable the message counting feature in your server, and as mentioned above by default the message counter is off for the given server.
 
@@ -44,7 +44,7 @@ Message Counter is disabled by default for your server, use **a!messages enable*
 
 </div>
 
-### a!messages settings (Blacklist + Whitelist)
+### `a!messages settings` (Blacklist + Whitelist)
 
 #### _Blacklist Mode_
 
@@ -74,7 +74,7 @@ You can add multiple channels to the blacklist or the whitelist.
 Count from all channels deletes the existing lists and counts from all channels.
 {% endhint %}
 
-### a!messages add/remove
+### `a!messages add` / `a!messages remove`
 
 > This command lets you add or removes messages for a particular user or yourself. Note that this feature can only used by administrators of a server.&#x20;
 
@@ -92,14 +92,22 @@ Count from all channels deletes the existing lists and counts from all channels.
 Removing messages greater than the messages a user has will reset their message count back to **zero** and not any negative integer.
 {% endhint %}
 
-### a!messages reset
+### `a!messages reset`
 
 This command allows you to reset the messages of a particular user in your server.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-14 at 11.49.44 PM.png" alt=""><figcaption><p>Bot has successfully reset message count</p></figcaption></figure>
 
-### a!leaderboard
+### `a!leaderboard`
 
 This command shows the messages sent by everyone from greatest to the least. This command uses pagination so you can scroll through through multiple pages to check the message counts.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-14 at 11.58.16 PM.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

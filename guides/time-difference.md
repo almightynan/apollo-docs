@@ -12,14 +12,22 @@ coverY: 0
 
 ## Sub Commands for the Time-Difference Module
 
-### a!timedif \<message-ID-1> \<message-ID-2>
+### `a!timedif <message-ID-1> <message-ID-2>`
 
 > This command checks the time difference between two messages, whilst providing the IDs for both the messages.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.45.50 AM.png" alt=""><figcaption></figcaption></figure>
 
-### a!timedif \<message-ID-1>
+### `a!timedif <message-ID-1>`
 
 > This command returns the time difference between the message ID given and your current message.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.46.28 AM.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

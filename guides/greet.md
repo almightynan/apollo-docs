@@ -12,7 +12,7 @@ coverY: 0
 
 ## Sub commands for the Greeter Module
 
-### a!greet
+### `a!greet`
 
 > This command either enables or disables greet messages in a particular channel. To enable or disable greet in any other channel just use **a!greet <#channel-ID>**. If you just use **a!greet** in the channel you currently are on, it just enables or disables for that particular channel.
 
@@ -36,7 +36,7 @@ coverY: 0
 
 </div>
 
-### a!greet message
+### `a!greet message`
 
 > This command sets the message to be used when greeting. You can put anything here and get creative by using apollo's various variables. You can set your custom message buy using **a!greet message \<message>**.
 
@@ -44,7 +44,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.29.21 AM.png" alt=""><figcaption><p>Message sent by apollo</p></figcaption></figure>
 
-### a!greet delafter
+### `a!greet delafter`
 
 > This command sets the time (in seconds) after which the greet message will be deleted.
 
@@ -54,7 +54,7 @@ coverY: 0
 This command only accepts seconds and not any other time format.
 {% endhint %}
 
-### a!greet show
+### `a!greet show`
 
 > This command shows the configurations that you have set for the greet message, which includes the greet message, greet enabled channels, time after which the greet will be deleted and also a button to test out the greet message !
 
@@ -67,3 +67,11 @@ This command only accepts seconds and not any other time format.
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.37.01 AM.png" alt=""><figcaption><p>testing greet</p></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

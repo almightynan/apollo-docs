@@ -1,4 +1,7 @@
 ---
+description: >-
+  Welcome, Bienvenido, 欢迎, 歡迎, Bienvenue, ようこそ, Receber, Добро пожаловать,
+  환영합니다, مرحباً, Ласкаво просимо, வணக்கம், स्वागत है, Selamat Datang, خوش آمدی.
 cover: .gitbook/assets/covergradient-home.png
 coverY: 0
 ---

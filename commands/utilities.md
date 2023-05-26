@@ -210,3 +210,11 @@ Argument `all_servers` must be yes/no or True/False.
 * `a!rename` - Rename a channel's name to something else.
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

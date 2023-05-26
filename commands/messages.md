@@ -119,3 +119,11 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 <figure><img src="../.gitbook/assets/chrome_oStBAGv5M0.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

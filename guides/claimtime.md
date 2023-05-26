@@ -12,9 +12,9 @@ coverY: 0
 >
 > Please refer to the [**overrides**](overrides.md) section if you are not familiar with it as claimtime uses overrides.
 
-## Sub Commands for the Claimtime Module
+## Subcommands for the Claimtime Module
 
-### a!claimtime
+### `a!claimtime`
 
 > This command checks the claimtime for a user or a role. It gives the claimtime for a role and it gives the total claimtime for a user.
 
@@ -28,7 +28,7 @@ coverY: 0
 
 </div>
 
-### a!claimtime add (a!claimtimeconfig add)
+### `a!claimtime add` (`a!claimtimeconfig add`)
 
 > This command adds or updates a specific amount of time (claimtime) to the role mentioned. Use `s` for seconds, `m` for minutes and `h` for hours.
 
@@ -38,16 +38,22 @@ This only works for roles and cannot be set for specific users
 
 <figure><img src="../.gitbook/assets/image (15).png" alt="Example of the a!claimtime add command "><figcaption></figcaption></figure>
 
-### a!claimtime remove (a!claimtimeconfig remove)
+### `a!claimtime remove` (`a!claimtimeconfig remove`)
 
 > This command removes the claimtime set for that particular role. Once this command is used on a role, the whole claimtime is deleted for that specific role completely.&#x20;
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="Example of a!claimtime remove command"><figcaption></figcaption></figure>
 
-### a!claimtimeconfig
+### `a!claimtimeconfig`
 
 > This command shows the configured claimtime for the roles in the server, however this command only shows the claimtime only for the configured roles as shown below.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-##
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}

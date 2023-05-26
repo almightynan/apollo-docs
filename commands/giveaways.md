@@ -111,3 +111,11 @@ coverY: 0
 <figure><img src="../.gitbook/assets/DiscordPTB_wzIU1VHa7M.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+**Syntax usage:**
+
+`<>` = Required argument (mandatory and must be included)
+
+`[]` = Optional argument (not necessary to be included)
+{% endhint %}
