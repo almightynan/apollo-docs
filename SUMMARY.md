@@ -21,6 +21,7 @@
 * [Greeter](commands/greeter.md)
 * [Giveaways](commands/giveaways.md)
 * [Utilities](commands/utilities.md)
+* [Message Counter](commands/messages.md)
 
 ## 📄 Legal
 
