@@ -1,5 +1,6 @@
 ---
-cover: .gitbook/assets/covergradient-home.png
+description: This is the home page of Apollo's documentation. Get started here!
+cover: .gitbook/assets/gradient (5).png
 coverY: 0
 ---
 
