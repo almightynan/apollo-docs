@@ -1,12 +1,11 @@
 ---
-description: >-
-  Welcome, Bienvenido, 欢迎, 歡迎, Bienvenue, ようこそ, Receber, Добро пожаловать,
-  환영합니다, مرحباً, Ласкаво просимо, வணக்கம், स्वागत है, Selamat Datang, خوش آمدی.
 cover: .gitbook/assets/covergradient-home.png
 coverY: 0
 ---
 
 # Home
+
+👋 Welcome, Bienvenido, Bienvenue, ようこそ, Добро пожаловать, வணக்கம், स्वागत, خوش آمدی.
 
 Apollo Bot is a powerful Discord bot designed to help you manage your server with ease. With a wide range of features and commands, Apollo is the perfect choice for server owners who want to take their server to the next level.
 
