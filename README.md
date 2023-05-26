@@ -1,5 +1,5 @@
 ---
-description: This is the home page of Apollo's documentation. Get started here!
+description: View the official documentation of Apollo, the giveaway management discord bot.
 cover: .gitbook/assets/gradient (5).png
 coverY: 0
 ---
