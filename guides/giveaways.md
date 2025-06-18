@@ -14,39 +14,21 @@ As you know apollo has a very sophisticated and advanced giveaway system. This p
 
 > This command shows the amount of win counts of giveaways hosted in the particular server and in all the servers apollo is in. In addition to the count, this command also shows what prize has been won by that particular user.
 
-<div><figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Checking wins for self</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Checking wins for other users</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (2) (1).webp" alt=""><figcaption></figcaption></figure>
 
 ### `a!glist`
 
 > This command shows all the active and ended giveaways in the particular server across all channels. This command also shows other information like giveaway host, giveaway winner of ended giveaways, and the channel the giveaway is in.&#x20;
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).webp" alt=""><figcaption></figcaption></figure>
 
-This command sends a button to view all the giveaways in paginator (page embed) form, as shown below.&#x20;
+This command sends a button to view all the giveaways in paginator (page embed) form, as shown above.&#x20;
 
-<div><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Page 1 (Ongoing Giveaway)</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Page 2 (Ongoing Giveaway)</p></figcaption></figure></div>
-
-<div><figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Page 3 (Ended Giveaway)</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Page 4 (Ended Giveaway)</p></figcaption></figure></div>
-
-### `a!winrole` (`winroleset/remove`)
+### `a!gwin-role` / `/gwin-role`
 
 > This command shows the roles that are to be added to the winner after they have won a giveaway. a!winrole set adds a new role to be added to the winners whereas a!winrole remove will delete the role to be added to winners.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>More than one role can be added too</p></figcaption></figure>
-
-{% hint style="warning" %}
-This command is a premium only command, to know more please goto the [premium](../premium.md) tab
-{% endhint %}
-
-### `a!managerole`
-
-> This command allows you to assign a giveaway manager role. By using this command you dont need to give the giveaway host the `manage server` permission, as simply assigning this role to the host will allow them to host and control giveaways.
-
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="warning" %}
-This command is a premium only command, to know more please goto the [premium](../premium.md) tab
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (6) (2).webp" alt=""><figcaption></figcaption></figure>
 
 ## Giveaway Host Commands
 
@@ -74,13 +56,17 @@ This command rerolls the winner of a perticular giveaway. When multiple giveaway
 
 ## Giveaway Control Commands
 
-### `a!gwblacklist`
+### `a!gblacklist`
 
-> This command blacklists a particular user from reacting/participating in giveaways by automatically unreacting to giveaways in the particular server. This command only applies to the local server and not the global giveaway blacklist (i.e. the user can still participate in other giveaways hosted by apollo in other servers)\
+> This command blacklists a particular user from reacting/participating in giveaways by automatically removing reactions to giveaways in the particular server. This command only applies to the local server and not the global giveaway blacklist (i.e. the user can still participate in other giveaways hosted by apollo in other servers)\
 > \
-> Just type in `a!gwblacklist <@user>` to blacklist them from all giveaways in your server.
+> Just type in `a!gblacklist <@user>` to blacklist them from all giveaways in your server.
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>User Successfully Blacklisted</p></figcaption></figure>
+
+To view all blacklisted users, run `a!gblacklist` or `/gblacklist` without mentioning any users.
+
+<figure><img src="../.gitbook/assets/image (7) (1).webp" alt=""><figcaption></figcaption></figure>
 
 ### a!gdelete
 
