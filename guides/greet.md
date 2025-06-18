@@ -8,41 +8,25 @@ coverY: 0
 
 ## What are greet messages?
 
-> Greet messages enable you to set up messages when a user joins your server. Apollo has a very customisable greeting system, with multiple features to help the user make a greet message of their own choice. The bot also provides some variables you can use to customise your greet message even more.&#x20;
+> Greet messages enable you to set up messages when a user joins your server. Apollo has a very customizable greeting system, with multiple features to help the user make a greet message of their own choice. The bot also provides some variables you can use to customise your greet message even more.&#x20;
+
+{% hint style="info" %}
+Greet module is disabled by default. Run `a!greet toggle`/ `/greet toggle`to enable it.
+{% endhint %}
 
 ## Sub commands for the Greeter Module
 
-### `a!greet`
+### `a!greet toggle`
 
-> This command either enables or disables greet messages in a particular channel. To enable or disable greet in any other channel just use **a!greet <#channel-ID>**. If you just use **a!greet** in the channel you currently are on, it just enables or disables for that particular channel.
-
-<div>
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.20.48 AM.png" alt=""><figcaption><p>greet enabled for current channel</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.20.08 AM.png" alt=""><figcaption><p>greet disabled for current channel</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.15.39 AM.png" alt=""><figcaption><p>greet enabled for a different channel</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.15.55 AM.png" alt=""><figcaption><p>greet disabled for a different channel</p></figcaption></figure>
-
-</div>
+> This command either enables or disables greet messages. To enable or disable greet throughout the server just use `a!greet toggle`or `/greet toggle`.
 
 ### `a!greet message`
 
 > This command sets the message to be used when greeting. You can put anything here and get creative by using apollo's various variables. You can set your custom message buy using **a!greet message \<message>**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.27.40 AM.png" alt=""><figcaption><p>Writing a custom welcome/greet message</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.29.21 AM.png" alt=""><figcaption><p>Message sent by apollo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>greet message in action</p></figcaption></figure>
 
 ### `a!greet delafter`
 
@@ -54,19 +38,17 @@ coverY: 0
 This command only accepts seconds and not any other time format.
 {% endhint %}
 
-### `a!greet show`
+### `a!greet settings`
 
-> This command shows the configurations that you have set for the greet message, which includes the greet message, greet enabled channels, time after which the greet will be deleted and also a button to test out the greet message !
+> This command shows the configurations that you have set for the greet message, which includes the greet message, greet enabled channels, time after which the greet will be deleted and also a button to test out the greet message.
 
-<div>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.34.56 AM.png" alt=""><figcaption><p>greet config</p></figcaption></figure>
+### a!greet reset
 
- 
+> This command resets all your greet configurations for the server and disables the greet module again.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 12.37.01 AM.png" alt=""><figcaption><p>testing greet</p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Syntax usage:**
