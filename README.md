@@ -17,7 +17,6 @@ Apollo Bot is a powerful Discord bot designed to help you manage your server wit
 Apollo Bot comes equipped with a variety of features to help you manage your server, including:
 
 * **Advanced giveaway system:** Easily manage giveaways with a range of options for your needs.
-* **Translation:** Translate messages to over 100 different languages with just a few clicks.
 * **Global AFK:** Set a global AFK status for your server members with a customizable message.
 * **Message counter:** Keep track of message counts for each user and channel on your server.
 * **And much more!**

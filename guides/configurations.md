@@ -1,5 +1,6 @@
 ---
 description: In this page, you will learn about configuring Apollo within your server.
+hidden: true
 cover: ../.gitbook/assets/covergradient-4.png
 coverY: 0
 ---
@@ -38,15 +39,7 @@ You may click the variables button to see the different variables that can be ad
 
 > Pressing this button shows the message that apollo sends whenever a giveaway is being hosted. You can change this to your liking from the regular message sent by apollo. Pressing this button also shows the preview of the current embed that has been set for giveaway messages!![](<../.gitbook/assets/Screenshot 2023-05-16 at 1.13.23 AM.png>)
 
-<div>
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 1.13.06 AM.png" alt=""><figcaption><p>replying with a!embed will allow you to edit this message</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 1.14.27 AM.png" alt=""><figcaption><p>embed editor</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 1.13.06 AM.png" alt=""><figcaption><p>replying with a!embed will allow you to edit this message</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 1.14.27 AM.png" alt=""><figcaption><p>embed editor</p></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-05-16 at 1.14.44 AM.png" alt=""><figcaption><p>confirmation message with multiple options as you press "finish" on the embed editor shown above</p></figcaption></figure>
 

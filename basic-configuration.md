@@ -9,12 +9,8 @@ coverY: 0
 ### Invite Apollo to your server:
 
 {% embed url="https://dsc.gg/apollo-invite" %}
-Click on the text above to invite Apollo.
-{% endembed %}
 
 ### Quicksetup some configurations
-
-* Use `a!quicksetup` to setup some of the configurations within seconds.
 
 #### Step 1 - Triggers
 
