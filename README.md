@@ -1,12 +1,14 @@
 ---
-description: View the official documentation of Apollo, the giveaway management discord bot.
+description: >-
+  View the official documentation of Apollo, the giveaway management discord
+  bot.
 cover: .gitbook/assets/gradient (5).png
 coverY: 0
 ---
 
 # Home
 
-👋 Welcome, Bienvenido, Bienvenue, ようこそ, Добро пожаловать, வணக்கம், स्वागत, خوش آمدی.
+👋 Welcome, வணக்கம், Bienvenido, Bienvenue, ようこそ, Добро пожаловать, स्वागत, خوش آمدی.
 
 Apollo Bot is a powerful Discord bot designed to help you manage your server with ease. With a wide range of features and commands, Apollo is the perfect choice for server owners who want to take their server to the next level.
 
@@ -22,7 +24,7 @@ Apollo Bot comes equipped with a variety of features to help you manage your ser
 
 ### Getting Started
 
-To start using Apollo Bot on your server, simply invite it by using the invite link provided below.&#x20;
+To start using Apollo Bot on your server, simply invite it by using the invite link provided below.
 
 {% embed url="https://dsc.gg/apollo-invite" %}
 

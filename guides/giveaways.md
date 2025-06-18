@@ -14,49 +14,25 @@ As you know apollo has a very sophisticated and advanced giveaway system. This p
 
 > This command shows the amount of win counts of giveaways hosted in the particular server and in all the servers apollo is in. In addition to the count, this command also shows what prize has been won by that particular user.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Checking wins for self</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Checking wins for other users</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Checking wins for self</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Checking wins for other users</p></figcaption></figure></div>
 
 ### `a!glist`
 
 > This command shows all the active and ended giveaways in the particular server across all channels. This command also shows other information like giveaway host, giveaway winner of ended giveaways, and the channel the giveaway is in.&#x20;
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 This command sends a button to view all the giveaways in paginator (page embed) form, as shown below.&#x20;
 
-<div>
+<div><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Page 1 (Ongoing Giveaway)</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Page 2 (Ongoing Giveaway)</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Page 1 (Ongoing Giveaway)</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Page 2 (Ongoing Giveaway)</p></figcaption></figure>
-
-</div>
-
-<div>
-
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Page 3 (Ended Giveaway)</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Page 4 (Ended Giveaway)</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Page 3 (Ended Giveaway)</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Page 4 (Ended Giveaway)</p></figcaption></figure></div>
 
 ### `a!winrole` (`winroleset/remove`)
 
 > This command shows the roles that are to be added to the winner after they have won a giveaway. a!winrole set adds a new role to be added to the winners whereas a!winrole remove will delete the role to be added to winners.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>More than one role can be added too</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>More than one role can be added too</p></figcaption></figure>
 
 {% hint style="warning" %}
 This command is a premium only command, to know more please goto the [premium](../premium.md) tab
@@ -112,15 +88,7 @@ This command deletes the giveaway log from the a!glist database. To delete a par
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Bot confirming to delete the particular giveaway</p></figcaption></figure>
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Giveaway Successfully Deleted</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Original Giveaway Message also is deleted</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Giveaway Successfully Deleted</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Original Giveaway Message also is deleted</p></figcaption></figure></div>
 
 {% hint style="info" %}
 **Syntax usage:**

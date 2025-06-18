@@ -82,7 +82,7 @@ coverY: 0
 {% endtab %}
 
 {% tab title="Examples" %}
-<figure><img src="../.gitbook/assets/DiscordPTB_wgIQjhWTgv (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DiscordPTB_wgIQjhWTgv.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
