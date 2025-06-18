@@ -18,7 +18,7 @@ You can run the command `a!snipetoggle` to prevent your messages being cached fo
 
 ### Where is this data stored?
 
-Any data collected by Apollo is stored in the secure databases located in the server the bot is hosted on (DigitalOcean). This data is only accessible to the bot owner(s) and the hosting provider.
+Any data collected by Apollo is stored in the secure databases located in the server the bot is hosted on (OVH/Hetzner). This data is only accessible to the bot owner(s) and the hosting provider.
 
 Periodic backups of the database are taken as a safety precaution to prevent data loss.
 
@@ -28,7 +28,9 @@ As for third-party services, we cannot guarantee where the data is stored theref
 
 The information received and stored is used in accordance with this privacy policy. This data is solely used to provide and improve our services.
 
-**We do not sell or share any data we collect.**
+{% hint style="danger" %}
+We do not sell your data to anyone. Your data is stored for security and monitoring purposes only.
+{% endhint %}
 
 ### How long is the data stored?
 
@@ -36,12 +38,12 @@ All data related to a guild will be deleted permanently upon removal of the bot 
 
 In addition to this:
 
-* Guild administrators have the permission to reset all guild data using the `reset` command, without needing to remove the bot.
+* Guild administrators have the permission to reset all guild data by removing the bot.
 * Users can opt out of message content collection by using the `snipetoggle` command.
 
 ### Deletion of data
 
-You can contact us at our [Support Server ](https://discord.gg/CQsfW5pb2e)to request deletion of your data.
+You can contact us at our [Support Server](https://discord.gg/CQsfW5pb2e) to request deletion of your data.
 
 ### Final Words
 

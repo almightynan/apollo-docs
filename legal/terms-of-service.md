@@ -22,7 +22,7 @@ Inviting, using and participating in guilds with Apollo constitutes your agreeme
 
 * You MUST NOT spam messages that invoke the bot, whether it is against the guild's rules or not.
 * You MUST NOT attempt to abuse, exploit or otherwise misuse Apollo and its features in any way.
-* You MUST NOT use Apollo to post any content that is deemed Not Safe for Work ("NSFW") in areas where a user does not have to verify their age.
+* You MUST NOT use Apollo to post any content that is deemed **Not Safe for Work ("NSFW")** in areas where a user **does not have to verify their age**.
 
 ### Use of third-party services
 
