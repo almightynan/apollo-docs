@@ -2,6 +2,20 @@
 description: View all commands related to greet.
 cover: ../.gitbook/assets/Screenshot 2023-05-15 190145.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Greeter
@@ -10,7 +24,7 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Usage" %}
-* `a!greet` - Enables/disables greet in a channel.
+* `a!greet` - Shows all available commands for the greet module.
 {% endtab %}
 
 {% tab title="Examples" %}
@@ -18,11 +32,11 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-### `a!greet show`
+### `a!greet settings`
 
 {% tabs %}
 {% tab title="Usage" %}
-* `a!greet show` - Shows the current configuration of greet on the server.
+* `a!greet settings`- Shows the current configuration of greet on the server.
 {% endtab %}
 
 {% tab title="Examples" %}
@@ -51,6 +65,30 @@ coverY: 0
 
 {% tab title="Examples" %}
 <figure><img src="../.gitbook/assets/DiscordPTB_6ilQHyHJSS.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+`a!greet toggle`
+
+{% tabs %}
+{% tab title="First Tab" %}
+* `a!greet toggle` - Enables or disables the greet module.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+`a!greet reset`
+
+{% tabs %}
+{% tab title="First Tab" %}
+* `a!greet reset` - Reset all configurations for the greet module within your server.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
 {% endtab %}
 {% endtabs %}
 

@@ -14,21 +14,11 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-### `a!managerole`
+### `a!gwin-role`
 
 {% tabs %}
 {% tab title="Usage" %}
-* Shows/sets the current manager role used to restrict creation of giveaways to.
-{% endtab %}
-{% endtabs %}
-
-### `a!winrole`
-
-{% tabs %}
-{% tab title="Usage" %}
-* `a!winrole` - View current roles to be added to the winner of a giveaway.
-* `a!winrole add <role_id / role_mention>` - Add a role as winner role.
-* `a!winrole remove <role_id / role_mention>` - Removes a role from winner role.
+* `a!gwin-role` - View/manage current roles to be added to the winner of a giveaway.
 {% endtab %}
 
 {% tab title="Examples" %}
@@ -38,11 +28,11 @@ coverY: 0
 {% endtab %}
 {% endtabs %}
 
-### `a!gwblacklist`
+### `a!gblacklist`
 
 {% tabs %}
 {% tab title="Usage" %}
-* `a!gwblacklist` - Blacklist or unblacklist someone from entering giveaways.
+* `a!gblacklist` - View/manage members from entering giveaways.
 {% endtab %}
 
 {% tab title="Examples" %}
@@ -59,6 +49,18 @@ coverY: 0
 
 {% tab title="Examples" %}
 <figure><img src="../.gitbook/assets/DiscordPTB_7VnVXPFKIM.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+`a!gcreate`
+
+{% tabs %}
+{% tab title="First Tab" %}
+* `a!gcreate` - Sends a panel through which you can create a giveaway with requirements.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -109,6 +111,18 @@ coverY: 0
 
 {% tab title="Examples" %}
 <figure><img src="../.gitbook/assets/DiscordPTB_wzIU1VHa7M.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+### `a!gcheck`
+
+{% tabs %}
+{% tab title="First Tab" %}
+* `a!gcheck <giveaway-id> [user]` - Check if you or someone else is eligible to enter a giveaway which has certain requirement(s).
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
 {% endtab %}
 {% endtabs %}
 

@@ -34,7 +34,7 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Usage" %}
-* `a!movech <category>` - Moves a text channel to a category.
+* `a!movech <category-id>` - Moves a text channel to a category.
 {% endtab %}
 {% endtabs %}
 
@@ -54,23 +54,11 @@ coverY: 0
 
 {% tabs %}
 {% tab title="Usage" %}
-* `a!snipe [channel] [index]` - Retrives a deleted message.
+* `a!snipe [channel] [index] [all]` - Retrives a deleted message.
 {% endtab %}
 
 {% tab title="Examples" %}
 <figure><img src="../.gitbook/assets/DiscordPTB_atmlfdSqzQ.gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-### `a!snipetoggle`
-
-{% tabs %}
-{% tab title="Usage" %}
-* `a!snipetoggle` - Enables/disables other users from viewing your deleted messages.
-{% endtab %}
-
-{% tab title="Examples" %}
-<figure><img src="../.gitbook/assets/DiscordPTB_nN0JQwROzb.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -171,6 +159,18 @@ Argument `all_servers` must be yes/no or True/False.
 {% endtab %}
 {% endtabs %}
 
+### `a!afk-toggle`
+
+{% tabs %}
+{% tab title="First Tab" %}
+* `a!afk-toggle <state>` - Enable or disable the afk module within your server.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### `a!membercount`
 
 {% tabs %}
@@ -188,18 +188,6 @@ Argument `all_servers` must be yes/no or True/False.
 
 {% tab title="Examples" %}
 <figure><img src="../.gitbook/assets/chrome_yniRc8h1vh.gif" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-### `a!translate`
-
-{% tabs %}
-{% tab title="Usage" %}
-* `a!translate` - Translate a text from one language to another.
-{% endtab %}
-
-{% tab title="Examples" %}
-<figure><img src="../.gitbook/assets/chrome_biyVTsCFnq.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

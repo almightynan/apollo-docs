@@ -26,7 +26,7 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 
 {% tabs %}
 {% tab title="Usage" %}
-* `a!messages add <member> <amt>` - Add a certain number of messages to an user.
+* `a!messages-admin add <member> <amt>` - Add a certain number of messages to an user.
 {% endtab %}
 
 {% tab title="Examples" %}
@@ -34,7 +34,7 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 {% endtab %}
 {% endtabs %}
 
-### `a!messages remove`
+### `a!messages-admin remove`
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -46,7 +46,7 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 {% endtab %}
 {% endtabs %}
 
-### `a!messages enable`
+### `a!messages-admin enable`
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -58,7 +58,7 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 {% endtab %}
 {% endtabs %}
 
-### `a!messages disable`
+### `a!messages-admin disable`
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -70,11 +70,12 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 {% endtab %}
 {% endtabs %}
 
-### `a!messages reset`
+### `a!messages reset` & `a!messages-admin reset-all`
 
 {% tabs %}
 {% tab title="Usage" %}
-* `a!messages reset [user]` - Reset a member/whole server's message count to 0.
+* `a!messages-admin reset <user>` - Reset a member's message count to 0.
+* `a!messages-admin reset-all` - Reset the entire server's message count to 0.
 
 {% hint style="danger" %}
 **WARNING - DESTRUCTIVE ACTION**
