@@ -8,7 +8,7 @@ coverY: 0
 
 ## What is the Time Difference Module?
 
-> This command allows you to get the time difference between any two messages. You just need to make sure you have [developer mode](time-difference.md) enabled to get the message IDs. Apollo provides a very accurate time difference with even milli-seconds.
+> This command allows you to get the time difference between any two messages. You just need to make sure you have [developer mode](https://help.mee6.xyz/support/solutions/articles/101000482629-how-to-enable-developer-mode) enabled to get the message IDs. Apollo provides a very accurate time difference with even milli-seconds.
 
 ## Sub Commands for the Time-Difference Module
 
