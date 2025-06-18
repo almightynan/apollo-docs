@@ -22,6 +22,8 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/200B798B-3218-41FC-AF10-DD836EA92C8C.png" alt=""><figcaption><p>claimtime for a specific role</p></figcaption></figure>
 
+### Admin commands for the Claimtime Module
+
 ### `a!claimtime-admin add` (`/claimtime-admin add`)
 
 > This command adds or updates a specific amount of time (claimtime) to the role mentioned. Use `s` for seconds, `m` for minutes and `h` for hours.

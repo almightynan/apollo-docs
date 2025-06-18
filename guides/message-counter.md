@@ -24,61 +24,71 @@ Message Counter is disabled by default for your server, use **a!messages enable*
 
 <figure><img src="../.gitbook/assets/imaaaaaaaaaaaaaaaae (1).png" alt=""><figcaption></figcaption></figure>
 
-### `a!messages enable` / `a!messages disable`
+### Admin commands for the Claimtime Module
+
+### `a!messages-admin <enable [or] disable>` / `/messages-admin <enable`` ``[or] disable>`
 
 > This command helps to enable or disable the message counting feature in your server, and as mentioned above by default the message counter is off for the given server.
 
-### `a!messages-admin settings`
+<figure><img src="../.gitbook/assets/image (8).webp" alt=""><figcaption><p>command to enable the counter</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (9).webp" alt=""><figcaption><p>command to disable the counter</p></figcaption></figure>
+
+### `a!messages-admin settings` / `/messages-admin settings`
 
 #### _Blacklist Mode_
 
-> In this mode, apollo will blacklist the given channels where the messages will not be counted. But the messages in all the other channels will be counted as usual.
+> In this mode, Apollo will blacklist the given channels where the messages will not be counted. But the messages in all the other channels will be counted as usual.
 
-<figure><img src="../.gitbook/assets/imaaaaaaaaaaaaaaaae (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.webp" alt=""><figcaption><p>select the dropdown and choose blacklist to enter blacklist mode</p></figcaption></figure>
 
-In the example shown above, we have set apollo to ignore (blacklist) the **#test-channel-1** channel and any messages sent in that channel will not be counted. To add a channel to blacklist, just use the dropdown menu to select it.
+<figure><img src="../.gitbook/assets/image (1).webp" alt=""><figcaption></figcaption></figure>
+
+In the example shown above, we have set Apollo to ignore (blacklist) the **#rules** channel and any messages sent in that channel will not be counted. To add a channel to blacklist, just use the dropdown menu to select it.
 
 #### _Whitelist Mode_
 
-> In this mode, apollo will whitelist the given channels where the messages will be counted. But the messages in all the other channels will not be counted.
+> In this mode, Apollo will whitelist the given channels where the messages will be counted. But the messages in all the other channels will not be counted.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-14 at 11.15.46 PM.png" alt=""><figcaption><p>notice in whitelist mode the "Whitelist mode" button has turned green</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.webp" alt=""><figcaption><p>select the dropdown and choose blacklist to enter blacklist mode</p></figcaption></figure>
 
-In the example shown above, we have set apollo to only count from the **#test-channel-1** channel and any messages sent in that channel **only** be counted. To add a channel to whitelist, just use the dropdown menu to select it.
+<figure><img src="../.gitbook/assets/image (2).webp" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
-Always click on "Save Changes" to make sure the bot has stored your input
-{% endhint %}
+In the example shown above, we have set Apollo to only count from the **#general** channel and any messages sent in that channel **only** be counted. To add a channel to whitelist, just use the dropdown menu to select it.
 
 {% hint style="info" %}
 You can add multiple channels to the blacklist or the whitelist.
 {% endhint %}
 
-{% hint style="warning" %}
-Count from all channels deletes the existing lists and counts from all channels.
-{% endhint %}
-
-### `a!messages add` / `a!messages remove`
+### `a!messages-admin add` / `a!messages-admin remove`
 
 > This command lets you add or removes messages for a particular user or yourself. Note that this feature can only used by administrators of a server.&#x20;
 
-<div><figure><img src="../.gitbook/assets/Screenshot 2023-05-14 at 11.30.34 PM.png" alt=""><figcaption><p>adding messages to self</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2023-05-14 at 11.31.03 PM.png" alt=""><figcaption><p>removing messages from another user</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (3).webp" alt=""><figcaption><p>bot has added 40 messages to user</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).webp" alt=""><figcaption><p>bot has removed 30 messages from the user</p></figcaption></figure>
 
 {% hint style="warning" %}
 Removing messages greater than the messages a user has will reset their message count back to **zero** and not any negative integer.
 {% endhint %}
 
-### `a!messages reset`
+### `a!messages-admin reset`
 
 This command allows you to reset the messages of a particular user in your server.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-14 at 11.49.44 PM.png" alt=""><figcaption><p>Bot has successfully reset message count</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).webp" alt=""><figcaption><p>bot has successfully reset message count</p></figcaption></figure>
 
-### `a!leaderboard`
+#### `a!messages-admin reset-all`
+
+This command allows you to reset the messages of everyone in your server to **0**. The bot will ask for a confirmation before proceeding.
+
+<figure><img src="../.gitbook/assets/image (6) (1).webp" alt="" width="357"><figcaption></figcaption></figure>
+
+### `a!leaderboard` / `a!lb` / `/leaderboard`
 
 This command shows the messages sent by everyone from greatest to the least. This command uses pagination so you can scroll through through multiple pages to check the message counts.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-14 at 11.58.16 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).webp" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Syntax usage:**
