@@ -22,7 +22,7 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 {% endtab %}
 {% endtabs %}
 
-### `a!messages add`
+### `a!messages-admin add`
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -97,7 +97,7 @@ Inorder for message counter to work, you must enable it by using `a!messages ena
 {% endtab %}
 {% endtabs %}
 
-### `a!messages settings`
+### `a!messages-admin settings`
 
 {% tabs %}
 {% tab title="Usage" %}
