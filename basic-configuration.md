@@ -1,5 +1,6 @@
 ---
 description: Some configurations which are necessary for the basic functions of Apollo.
+hidden: true
 cover: .gitbook/assets/covergradient-1.png
 coverY: 0
 ---
