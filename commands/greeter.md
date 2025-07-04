@@ -2,20 +2,6 @@
 description: View all commands related to greet.
 cover: ../.gitbook/assets/Screenshot 2023-05-15 190145.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # Greeter
