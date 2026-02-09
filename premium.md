@@ -16,7 +16,7 @@ Purchase Apollo premium, go to our website at [https://apollo-bot.xyz/premium](h
 
 ## How do I sign up for premium?
 
-> 1. Head over to [https://itranslator.app/premium](https://itranslator.app/premium)
+> 1. Head over to [https://apollo-bot.xyz/premium](https://apollo-bot.xyz/premium)
 > 2. Select a plan.
 > 3. Click on "Upgrade", then follow the checkout session.
 
